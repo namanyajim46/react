@@ -1,0 +1,25 @@
+*{
+    
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+}
+.links .shop{
+    padding-right: 5%;
+    margin-right: 5%;
+    color: green;
+    font-weight: 800;
+    font-size: 23px; 
+
+}
+.links .cart{
+    padding-right: 5%;
+    margin-right: 5%;
+    color: green;
+    font-weight: 800;
+    font-size: 23px;
+}
